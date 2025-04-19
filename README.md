@@ -35,7 +35,7 @@ Want to run ExpenseTrack locally? Here's how:
 
 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/expense-track.git
+git clone https://github.com/push2250/Expense-Management-.git
 ```
 
 2. Install dependencies
@@ -81,10 +81,6 @@ I'm planning to add these features:
 - Budget planning tools
 - Multi-currency support
 - Mobile app version
-
-## Personal Note
-
-This project was developed by me, Pushkaraj Bhangale (22BSA10202), as part of my Advanced Web Development coursework at VIT Bhopal. It represents my learning journey in modern web development and my first attempt at creating a full-featured web application.
 
 ## License
 
